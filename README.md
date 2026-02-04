@@ -1,3 +1,4 @@
+> ℹ️ **Disclaimer:** This project was developed with AI assistance for educational purposes.
 # LanguageCreator
 
 Bu depo, "Gelişmiş Dil Yaratıcı" projesine aittir. Depoda proje arayüzü için bir HTML dosyası ve geliştirme notlarını içeren `docs/` klasörü bulunur.
